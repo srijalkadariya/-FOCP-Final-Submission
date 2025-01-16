@@ -1,0 +1,7 @@
+This is an example text file.
+It consists of several lines of content.
+The goal of this file is to experiment with the grep command.
+Finding particular patterns can be quite helpful.
+This sentence doesn’t include the keyword.
+Here’s another example line featuring the word “sample.”
+One more line included purely for testing purposes.

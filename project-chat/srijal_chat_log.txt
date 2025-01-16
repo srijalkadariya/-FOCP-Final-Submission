@@ -1,0 +1,6 @@
+User: where it the location
+Batsal: It is situated in the Thapathali Trade Tower, Kathmandu.
+User: thankyou
+Batsal: Interesting question! Let me get back to you on that.
+User: bye
+Batsal: Goodbye, srijal! Have a great day!

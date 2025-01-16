@@ -1,0 +1,3 @@
+This is an example text file.
+It includes several lines of content.
+The information varies in the second file.

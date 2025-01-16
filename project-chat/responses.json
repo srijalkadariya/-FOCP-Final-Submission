@@ -1,0 +1,23 @@
+{
+    "keywords": {
+        "coffee": "It is available in The British Cafe which is open from 7 AM to 4 PM.",
+        "library": "The library is open from 7 AM to 4 PM.",
+        "fees": "Tuition fees vary depending on your course. Please visit our website for details.",
+        "sports": "We have basketball court available and covered hall for students.",
+        "events": "Upcoming events include the different fests.",
+        "admission": "Applications are open for the upcoming semester. Apply from our website.",
+        "wifi": "Free Wi-Fi is available across the College.",
+        "internet": "Free internet is available across the campus.",
+        "courses": "We offer courses related to Computing,cyber security, Business and ACCA.",
+        "help": "I'm here to assist you with any queries.",
+        "located": "It is situated in the Thapathali Trade Tower, Kathmandu.",
+        "location": "It is situated in the Thapathali Trade Tower, Kathmandu.",
+        "schedule": "The classes runs in two shift morning and day."
+    },
+    "random_responses": [
+        "Could you clarify that?",
+        "I'm not sure I understand, but let me know if I can help.",
+        "Interesting question! Let me get back to you on that.",
+        "Hmm, I'm not programmed to handle that yet. Try another question."
+    ]
+}
